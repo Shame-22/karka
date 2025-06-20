@@ -45,9 +45,9 @@
 # print("***")
 # print("****")
 #9
-# Name="Shame"
-# Age=21
+Name="Shame"
+Age=21
 # isStudent=True
-# print(Name)
-# print(Age)
+print(Name)
+print(Age)
 # print(isStudent)

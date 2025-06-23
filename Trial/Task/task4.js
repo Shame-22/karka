@@ -1,5 +1,5 @@
 //1
-// let a=22
+let a=22
 // if(a>0){
 //     console.log("The number is positive")
 // }

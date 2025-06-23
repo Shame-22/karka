@@ -2,7 +2,7 @@
 // let secondName="Shamina"
 // let age=21
 // let date_of_birth="27/09/2003"
-// let phone_number=7356866087
+let phone_number=7356866087
 // console.log("First Name:",firstName)
 // console.log("Second Name:",secondName)
 // console.log("Age:",age)
@@ -17,7 +17,7 @@
 // let r=6
 // let area=(3.14*(r**2))
 // console.log("The area of the circle is:",area)
-//4
+4
 // let l=30
 // let w=52
 // let area=(l*w)
